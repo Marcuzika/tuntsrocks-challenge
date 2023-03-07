@@ -1,5 +1,12 @@
 # Tunts.Rocks Challenge 🤘🏻
 
+This project was a challenge for the internship position at TuntsRock.
+
+I made this project using JavaScript,
+it consumes data from an api and organizes it in a table and at the end, downloads this file in .xlsx format inside the app directory.
+
+# Instructions:
+
 ## Requirements:
 . Node JS installed
 
@@ -23,3 +30,5 @@ npm start
 ```
 countries-list.xlsx
 ```
+
+-  ©Zika Labs.
